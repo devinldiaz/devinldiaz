@@ -4,7 +4,8 @@
 ![212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f](https://github.com/devinldiaz/devinldiaz/assets/111460145/4f85497e-ed93-4c97-97f7-10063001c51e)
 # 💫 About Me:
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Polar%20Bear.png" alt="Polar Bear" width="25" height="25" />Computer Science student at Florida International University
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Rabbit.png" alt="Rabbit" width="25" height="25" />
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Rabbit.png" alt="Rabbit" width="25" height="25" /> I’m currently learning full-stack development
 
 
 

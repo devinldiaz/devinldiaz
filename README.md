@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Devin<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Shrimp.png" alt="Shrimp" width="25" height="25" />
+### Hi there, I'm Devin<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Shrimp.png" alt="Shrimp" width="25" height="25" />
 <!---<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Partying%20Face.png" alt="Partying Face" width="25" height="25" />
 -->
 ![212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f](https://github.com/devinldiaz/devinldiaz/assets/111460145/4f85497e-ed93-4c97-97f7-10063001c51e)

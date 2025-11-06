@@ -7,9 +7,10 @@
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Rabbit.png" alt="Rabbit" width="25" height="25" /> I’m currently learning full-stack development
 
-🌱 How to reach me **devinlainediaz@gmail.com**
+
 
 <!--
+🌱 How to reach me **devinlainediaz@gmail.com**
 **devinldiaz/devinldiaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Star-Struck.png" alt="Star-Struck" width="25" height="25" />

@@ -61,6 +61,9 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=devinldiaz&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
+
+
+-->
 ###
 
 <picture>
@@ -68,6 +71,4 @@ Here are some ideas to get you started:
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devinldiaz/devinldiaz/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/devinldiaz/devinldiaz/output/pacman-contribution-graph.svg">
 </picture>
-
 ###
--->

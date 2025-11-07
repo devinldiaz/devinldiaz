@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=devinldiaz&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=devinldiaz&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
--->
+
 ###
 
 <picture>
@@ -70,3 +70,4 @@ Here are some ideas to get you started:
 </picture>
 
 ###
+-->

@@ -36,8 +36,9 @@ Here are some ideas to get you started:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=devinldiaz&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=devinldiaz&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Clinking%20Glasses.png" alt="Clinking Glasses" width="25" height="25" />GitHub Trophies:
-![](https://github-profile-trophy.vercel.app/?username=devinldiaz&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=aura&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!-- 
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Cat%20with%20Smiling%20Eyes.png" alt="Grinning Cat with Smiling Eyes" width="25" height="25" />Top Contributed Repo:

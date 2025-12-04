@@ -37,9 +37,12 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=devinldiaz&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Clinking%20Glasses.png" alt="Clinking Glasses" width="25" height="25" />GitHub Trophies:
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=aura&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+<h1>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Clinking%20Glasses.png" width="28" />
+  GitHub Trophies
+</h1>
 
+[![trophy](https://github-trophies.vercel.app/?username=devinldiaz&theme=onedark)](https://github.com/lucthienphong1120/github-trophies)
 <!-- 
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Cat%20with%20Smiling%20Eyes.png" alt="Grinning Cat with Smiling Eyes" width="25" height="25" />Top Contributed Repo:
 ![](https://github-contributor-stats.vercel.app/api?username=devinldiaz&limit=5&theme=dracula&combine_all_yearly_contributions=true)

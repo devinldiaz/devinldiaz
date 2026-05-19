@@ -7,7 +7,7 @@
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Polar%20Bear.png" alt="Polar Bear" width="25" height="25" /> Computer Science student at Florida International University
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Sparkling%20Heart.png" alt="Sparkling Heart" width="25" height="25" /> Helping organize the country's 2nd largest student-led Women in Tech conference, WiTCON!
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Sparkling%20Heart.png" alt="Sparkling Heart" width="25" height="25" /> Helped organize the country's 2nd largest student-led Women in Tech conference, WiTCON, as Industry Relations Director
 <!--
 🌱 How to reach me **devinlainediaz@gmail.com**
 **devinldiaz/devinldiaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
